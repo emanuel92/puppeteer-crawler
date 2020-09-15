@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-crawler",
+  "version": "1.0.1",
+  "description": "Ready for gathering links & fetching content iteratively",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "puppeteer": "2.0.0"
+  },
+  "author": "Emanuel Wille"
+}
